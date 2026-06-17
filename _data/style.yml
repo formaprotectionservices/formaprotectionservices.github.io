@@ -5,4 +5,5 @@
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
+header-video: "/assets/video/header-video.mp4"
 contact-image: "../img/map-image.png"
