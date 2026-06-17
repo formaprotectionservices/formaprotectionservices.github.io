@@ -118,7 +118,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Call +1 672-200-4424 or email info@formaprotectionservices.ca to request a consultation."
+    text: 'Call <a href="tel:+16722004424">+1 672-200-4424</a> or email <a href="mailto:info@formaprotectionservices.ca">info@formaprotectionservices.ca</a> to request a consultation.'
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
