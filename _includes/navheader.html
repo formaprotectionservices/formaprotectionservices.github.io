@@ -70,8 +70,8 @@
       }
     </style>
     {%- if site.data.style.header-video -%}
-    <video class="masthead-video" autoplay muted loop playsinline preload="metadata" poster="{{ site.baseurl }}{{ site.data.style.header-image }}">
-      <source src="{{ site.baseurl }}{{ site.data.style.header-video }}" type="video/mp4" />
+    <video class="masthead-video" autoplay muted loop playsinline preload="metadata" poster="{{ site.data.style.header-image | relative_url }}">
+      <source src="{{ site.data.style.header-video | relative_url }}" type="video/mp4" />
     </video>
     {%- endif -%}
     <div class="container">
@@ -112,8 +112,8 @@
       }
     </style>
     {%- if site.data.style.header-video -%}
-    <video class="masthead-video" autoplay muted loop playsinline preload="metadata" poster="{{ site.baseurl }}{{ site.data.style.header-image }}">
-      <source src="{{ site.baseurl }}{{ site.data.style.header-video }}" type="video/mp4" />
+    <video class="masthead-video" autoplay muted loop playsinline preload="metadata" poster="{{ site.data.style.header-image | relative_url }}">
+      <source src="{{ site.data.style.header-video | relative_url }}" type="video/mp4" />
     </video>
     {%- endif -%}
     <div class="container">
