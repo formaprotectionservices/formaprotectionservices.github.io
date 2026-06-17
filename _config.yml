@@ -19,11 +19,11 @@ baseurl: "" # root deployment for custom domain
 
 title      : Forma Protection Services
 email      : info@formaprotectionservices.ca #this is also the email contact forms will go to
-description: "Template somethin something something"
-author     : Shaan
+description: "Forma Protection Services provides security guarding, alarm monitoring, CCTV, and access control across Vancouver and British Columbia."
+author     : Forma Protection Services
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+  # path: assets/img/logo.png
+  # height: 52
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

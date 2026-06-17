@@ -6,32 +6,24 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }}.
 
 **PERSONAL INFORMATION WE COLLECT**
 
-{% if site.analytics.google %}
+We do not collect personal information directly from visitors through this website unless you contact us through the site or by email. Information you provide in a contact form or email is used only to respond to your inquiry and deliver requested services.
 
-Automatically Collected (Google Analytics):
+**USE OF COOKIES**
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+This site does not use cookies for tracking or advertising. If you have an analytics script enabled in the future, we will update this policy accordingly.
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+**THIRD-PARTY LINKS**
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
-
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
+The site may include links to third-party websites. We are not responsible for the privacy practices of those websites.
 
 **CHANGES**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+We may update this privacy policy from time to time to reflect changes in our business or legal requirements.
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+If you have questions about this policy, email us at <a href="mailto:info@formaprotectionservices.ca">info@formaprotectionservices.ca</a>.

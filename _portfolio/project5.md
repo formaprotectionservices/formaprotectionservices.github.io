@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Industrial Access Control Upgrade
+subtitle: NFC-enabled entry and badge management for a logistics warehouse.
 image: assets/img/portfolio/05-full.jpg
-alt: 
+alt: access control
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Access Control Upgrade
+  subtitle: NFC and Badge Security
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Upgraded access systems with NFC authorization, smart badge readers, and secure perimeter doors to protect a BC logistics facility and simplify employee access.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: March 2024
+- Client: Pacific Logistics
+- Category: Access Control
 

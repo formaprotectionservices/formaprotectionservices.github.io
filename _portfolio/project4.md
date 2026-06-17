@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Luxury Residential Guard Program
+subtitle: Concierge security and access management for a gated estate community.
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: residential security
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Residential Guard Program
+  subtitle: Gated Community Protection
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Provided high-end residential security with concierge-style gate control, patrols, guest screening, and CCTV coverage for a luxury Vancouver neighbourhood.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: May 2024
+- Client: North Shore Estates
+- Category: Residential Security
 

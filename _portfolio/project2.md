@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Retail CCTV & Alarm Integration
+subtitle: CCTV installation and alarm monitoring for a Vancouver retail center.
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: retail CCTV
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Retail Safety Upgrade
+  subtitle: CCTV & Alarm Systems
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Installed video surveillance and alarm monitoring for a busy retail environment, improving loss prevention and enabling fast remote incident response with high-definition camera coverage.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: August 2024
+- Client: Westgate Retail Group
+- Category: CCTV & Alarm Monitoring
 

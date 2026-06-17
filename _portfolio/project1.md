@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Downtown Vancouver Construction Security
+subtitle: 24/7 site guarding, access control, and incident response for a major construction campus.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: construction security
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Vancouver Construction Security
+  subtitle: Construction Site Protection
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Delivered around-the-clock security for a large downtown construction project, including controlled access points, mobile patrols, site inspections, and rapid incident reporting via CCTV and guard teams.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: November 2024
+- Client: UrbanBuild Developments
+- Category: Construction Security
 
