@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shield-alt
       - title: "Armed Guards w/ BodyCams"
         desc: "Highly trained, licensed armed guards equipped with body-worn cameras for transparent, accountable incident response across British Columbia."
-        icon: fas fa-shield-alt
+        icon: fas fa-crosshairs
       - title: "CCTV & Alarm Monitoring"
         desc: "Integrated video surveillance and alarm systems with professional monitoring and evidence recording."
         icon: fas fa-video
@@ -50,7 +50,7 @@ en: &DEFAULT_EN
         icon: fas fa-tags
 
   portfolio:
-    title: "Programs We Provide"
+    title: "Taylored Security Programs"
     text: "Comprehensive security programs and services tailored for communities and businesses across British Columbia."
     section: portfolio
     closebutton: "Close Program"
