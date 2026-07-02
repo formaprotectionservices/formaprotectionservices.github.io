@@ -12,33 +12,48 @@
 en: &DEFAULT_EN
   header:
     title: "Forma Protection Services"
-    text: "Committed, crafted, secured."
+    text: " Crafted, Committed, Secured."
     button: "Request a Quote"
     buttonlink: "#contact"
 
   services:
     title: "Security Services"
-    text: "Comprehensive protection solutions across Vancouver and all of British Columbia."
+    text: "Comprehensive protection solutions across all of British Columbia."
     section: services
     list:
       - title: "Uniformed Security Guards"
         desc: "Licensed officers providing site protection, access control, patrols, and fast incident response."
+        icon: fas fa-shield-alt
+      - title: "Armed Guards w/ BodyCams"
+        desc: "Highly trained, licensed armed guards equipped with body-worn cameras for transparent, accountable incident response across British Columbia."
         icon: fas fa-shield-alt
       - title: "CCTV & Alarm Monitoring"
         desc: "Integrated video surveillance and alarm systems with professional monitoring and evidence recording."
         icon: fas fa-video
       - title: "Drone Support"
         desc: "Aerial security and site reconnaissance for hard-to-reach properties and large event spaces."
-        icon: fas fa-drone
+        icon: fas fa-helicopter
+      - title: "GPS Patrol Tracking"
+        desc: "Real-time GPS monitoring keeps patrols on schedule and improves coverage for every site."
+        icon: fas fa-map-marker-alt
+      - title: "Mobile Patrol Services"
+        desc: "Responsive vehicle patrols and mobile officers deliver visible protection across your property."
+        icon: fas fa-car
+      - title: "Digital Incident Reports"
+        desc: "Secure digital reporting ensures fast incident capture, documentation, and follow-up."
+        icon: fas fa-file-alt
+      - title: "24/7 Support & Competitive Pricing"
+        desc: "Affordable security solutions backed by fast response and round-the-clock customer service."
+        icon: fas fa-headset
       - title: "NFC Tagging & Asset Tracking"
         desc: "Smart NFC placement and tagging for asset verification, inspection logging, and site integrity."
         icon: fas fa-tags
 
   portfolio:
-    title: "Featured Security Projects"
-    text: "Security programs and installations delivered across Vancouver and British Columbia."
+    title: "Programs We Provide"
+    text: "Comprehensive security programs and services tailored for communities and businesses across British Columbia."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Program"
 
   timeline:
     title: "Our Story"
