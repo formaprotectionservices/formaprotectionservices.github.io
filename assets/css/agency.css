@@ -1,0 +1,12 @@
+@import url("https://raviriley.github.io/agency-jekyll-theme-starter/assets/css/agency.css");
+
+/* Portfolio thumbnail size override only */
+#portfolio .portfolio-item .portfolio-link {
+  overflow: hidden;
+}
+#portfolio .portfolio-item .portfolio-link img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
