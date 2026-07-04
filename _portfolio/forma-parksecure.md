@@ -1,11 +1,11 @@
 ---
-title: Forma ParkSecure™
+title: Forma ParkSecure
 subtitle: Parking Safety & Patrol Program
 image: assets/img/portfolio/park-full.jpg
 alt: parking safety
 
 caption:
-  title: Parking Safety & Patrol Program
+  title: Forma ParkSecure
   subtitle: Vehicle and pedestrian safety, patrols, and lighting assessments across BC
   thumbnail: assets/img/portfolio/park-thumb.jpg
 ---

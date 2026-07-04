@@ -1,11 +1,11 @@
 ---
-title: Forma BuildSecure™
+title: Forma BuildSecure
 subtitle: Construction Site Protection Program
 image: assets/img/portfolio/build-full.jpg
 alt: construction site protection
 
 caption:
-  title: Forma BuildSecure™
+  title: Forma BuildSecure
   subtitle: Construction Site Protection Program.
   thumbnail: assets/img/portfolio/build-thumb.jpg
 ---

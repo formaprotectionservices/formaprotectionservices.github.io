@@ -1,11 +1,11 @@
 ---
-title: Forma CentreSecure™
+title: Forma CentreSecure
 subtitle: Commercial Property Protection Program
 image: assets/img/portfolio/centre-full.jpg
 alt: commercial property protection
 
 caption:
-  title: Commercial Property Protection Program
+  title: Forma CentreSecure
   subtitle: Integrated security solutions for offices, plazas, and mixed-use properties across BC
   thumbnail: assets/img/portfolio/centre-thumb.jpg
 ---

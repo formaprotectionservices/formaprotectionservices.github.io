@@ -1,11 +1,11 @@
 ---
-title: Forma EventSecure™
+title: Forma EventSecure
 subtitle: Event Protection Program
 image: assets/img/portfolio/event-full.jpg
 alt: event protection
 
 caption:
-  title: Event Protection Program
+  title: Forma EventSecure
   subtitle: Crowd management, access control, and emergency response for events across BC
   thumbnail: assets/img/portfolio/event-thumb.jpg
 ---

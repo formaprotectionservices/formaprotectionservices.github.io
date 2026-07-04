@@ -1,11 +1,11 @@
 ---
-title: Forma FireWatch™
+title: Forma FireWatch
 subtitle: Fire Watch Compliance Program
 image: assets/img/portfolio/firewatch-full.jpg
 alt: fire watch
 
 caption:
-  title: Fire Watch Compliance Program
+  title: Forma FireWatch
   subtitle: Trained fire-watch officers and patrols to meet compliance requirements across BC
   thumbnail: assets/img/portfolio/firewatch-thumb.jpg
 ---

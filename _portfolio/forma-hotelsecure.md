@@ -1,11 +1,11 @@
 ---
-title: Forma HotelSecure™
+title: Forma HotelSecure
 subtitle: Hospitality Protection Program
 image: assets/img/portfolio/hotel-full.jpg
 alt: hospitality protection
 
 caption:
-  title: Hospitality Protection Program
+  title: Forma HotelSecure
   subtitle: Guest safety, asset protection, and concierge security for hotels across BC
   thumbnail: assets/img/portfolio/hotel-thumb.jpg
 ---

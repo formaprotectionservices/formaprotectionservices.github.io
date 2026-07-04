@@ -1,11 +1,11 @@
 ---
-title: Forma HealthSecure™
+title: Forma HealthSecure
 subtitle: Healthcare Protection Program
 image: assets/img/portfolio/health-full.jpg
 alt: healthcare protection
 
 caption:
-  title: Healthcare Protection Program
+  title: Forma HealthSecure
   subtitle: Patient safety, asset protection, and regulated access control across BC healthcare sites
   thumbnail: assets/img/portfolio/health-thumb.jpg
 ---

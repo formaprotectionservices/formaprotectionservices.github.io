@@ -1,11 +1,11 @@
 ---
-title: Forma WarehouseSecure™
+title: Forma WarehouseSecure
 subtitle: Warehouse & Logistics Protection Program
 image: assets/img/portfolio/warehouse-full.jpg
 alt: warehouse protection
 
 caption:
-  title: Warehouse & Logistics Protection Program
+  title: Forma WarehouseSecure
   subtitle: Inventory protection, gate control, and logistics security across BC
   thumbnail: assets/img/portfolio/warehouse-thumb.jpg
 ---

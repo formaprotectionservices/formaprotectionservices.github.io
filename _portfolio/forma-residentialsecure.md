@@ -1,11 +1,11 @@
 ---
-title: Forma ResidentialSecure™
+title: Forma ResidentialSecure
 subtitle: Residential Community Protection Program
 image: assets/img/portfolio/residential-full.jpg
 alt: residential community protection
 
 caption:
-  title: Residential Community Protection Program
+  title: Forma ResidentialSecure
   subtitle: Community patrols, concierge security, and neighborhood safety programs across BC
   thumbnail: assets/img/portfolio/residential-thumb.jpg
 ---

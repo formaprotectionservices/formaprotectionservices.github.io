@@ -1,11 +1,11 @@
 ---
-title: Forma RetailSecure™
+title: Forma RetailSecure
 subtitle: Retail Protection Program
 image: assets/img/portfolio/retail-full.jpg
 alt: retail protection
 
 caption:
-  title: Retail Protection Program
+  title: Forma RetailSecure
   subtitle: Loss prevention, customer safety, and retail patrols across British Columbia
   thumbnail: assets/img/portfolio/retail-thumb.jpg
 ---

@@ -1,11 +1,11 @@
 ---
-title: Forma IndustrialSecure™
+title: Forma IndustrialSecure
 subtitle: Industrial Facility Protection Program
 image: assets/img/portfolio/industrial-full.jpg
 alt: industrial security
 
 caption:
-  title: Industrial Facility Protection Program
+  title: Forma IndustrialSecure
   subtitle: Heavy-industry and critical infrastructure protection across BC
   thumbnail: assets/img/portfolio/industrial-thumb.jpg
 ---

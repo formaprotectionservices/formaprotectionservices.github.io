@@ -1,11 +1,11 @@
 ---
-title: Forma GovSecure™
+title: Forma GovSecure
 subtitle: Government Security Program
 image: assets/img/portfolio/gov-full.jpg
 alt: government security
 
 caption:
-  title: Government Security Program
+  title: Forma GovSecure
   subtitle: Secure services for municipal, provincial, and civic assets across BC
   thumbnail: assets/img/portfolio/gov-thumb.jpg
 ---
