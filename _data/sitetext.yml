@@ -114,22 +114,22 @@ en: &DEFAULT_EN
     people:
       - name: "Shaan Arora"
         role: "Founder & CEO"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shaan.jpg
         social:
           - url: https://www.linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Megan Lee"
-        role: "Director of Operations"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://www.linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Alex Chen"
-        role: "Security Technology Lead"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://www.linkedin.com
-            icon: fab fa-linkedin-in
+      # - name: "Megan Lee"
+      #   role: "Director of Operations"
+      #   image: assets/img/team/2.jpg
+      #   social:
+      #     - url: https://www.linkedin.com
+      #       icon: fab fa-linkedin-in
+      # - name: "Alex Chen"
+      #   role: "Security Technology Lead"
+      #   image: assets/img/team/500x500.jpg
+      #   social:
+      #     - url: https://www.linkedin.com
+      #       icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
