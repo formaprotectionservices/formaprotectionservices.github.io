@@ -19,7 +19,7 @@ baseurl: "" # root deployment for custom domain
 
 title      : Forma Protection Services
 email      : info@formaprotectionservices.ca #this is also the email contact forms will go to
-description: "Forma Protection Services provides security guarding, alarm monitoring, CCTV, and access control across Vancouver and British Columbia."
+description: "Forma Protection Services provides security guarding, alarm monitoring, CCTV, and access control across British Columbia."
 author     : Forma Protection Services
 # logo:     #optional, defaults to site title
   # path: assets/img/logo.png
