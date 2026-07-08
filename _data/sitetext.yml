@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: "FORMA PROTECTION SERVICES"
-    text: " Crafted, Committed, Secured."
-    button: "Request a Quote"
+    text: " Tailored Security. Trusted Professionals."
+    button: "Request a Consultation"
     buttonlink: "#contact"
 
   services:
@@ -76,7 +76,6 @@ en: &DEFAULT_EN
         desc: "Continuing to expand our services, invest in modern security technologies, and build long-term relationships based on trust, professionalism, and reliable protection throughout British Columbia.."
         image: assets/img/timeline/4.jpg
         alt: "Trusted security"
-    end: "Protecting BC<br>Every Day"
 
   about:
     title: "About Us"
