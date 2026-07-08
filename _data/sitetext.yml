@@ -92,11 +92,11 @@ en: &DEFAULT_EN
   team:
     title: "Our Leadership"
     text: "Experienced security professionals with BC-wide operations."
-    subtext: "Licensed, insured, and trained to support your security goals across Vancouver and British Columbia."
+    subtext: "Shaan Arora, Founder of Forma Protection Services, started the company with a simple belief: everyone deserves to feel safe and secure. He is committed to building a team clients can rely on—one that values professionalism, honesty, and respect while delivering dependable security services with a personal, client-first approach."
     section: team
     people:
       - name: "Shaan"
-        role: "Founder & CEO"
+        role: "Founder"
         image: assets/img/team/shaan.jpg
         social:
           - url: https://www.linkedin.com
