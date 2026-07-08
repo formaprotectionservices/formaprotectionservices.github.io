@@ -198,8 +198,17 @@
         font-size: clamp(2.2rem, 4.5vw, 3.2rem);
         line-height: 1.05;
         white-space: nowrap;
+        max-width: none;
         color: #c8a24a;
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5), -1px -1px 2px rgba(0, 0, 0, 0.4);
+      }
+      @media (max-width: 576px) {
+        header.masthead .intro-heading {
+          font-size: clamp(1.7rem, 8vw, 2.2rem);
+          line-height: 1.08;
+          white-space: normal;
+          max-width: 100%;
+        }
       }
     </style>
     {%- if site.data.style.header-video -%}
