@@ -60,51 +60,35 @@ en: &DEFAULT_EN
     text: "A history of trusted security service and BC-wide growth."
     section: timeline
     events:
-      - title: "Founded in Vancouver"
-        year: "2014"
-        desc: "Started as a local security provider focused on residential and small-business protection."
+      - title: "The Beginning"
+        desc: "Forma Protection Services was established with a vision to deliver dependable, technology-driven security solutions tailored to the needs of businesses and communities across West Coast & Southwest British Columbia."
         image: assets/img/timeline/1.jpg
         alt: "Security patrol"
-      - title: "Expanded Province-Wide"
-        year: "2018"
-        desc: "Built a BC network of officers, monitoring staff, and rapid-response teams."
+      - title: "Building Strong Partnerships"
+        desc: "Working closely with clients to understand their operations and develop security programs designed around their unique risks and objectives."
         image: assets/img/timeline/2.jpg
         alt: "BC operations"
-      - title: "Smart Security Solutions"
-        year: "2021"
-        desc: "Added CCTV, access control, and mobile patrol services for modern commercial properties."
+      - title: "Technology Meets Protection"
+        desc: "Combining licensed security professionals with digital reporting, GPS patrol tracking, CCTV integration, drone support, and NFC verification to improve transparency and operational efficiency."
         image: assets/img/timeline/3.jpg
         alt: "Security technology"
-      - title: "BC Trusted Partner"
-        year: "2024"
-        desc: "Delivering reliable protection, fast response, and professional service throughout British Columbia."
+      - title: "Growing with Purpose"
+        desc: "Continuing to expand our services, invest in modern security technologies, and build long-term relationships based on trust, professionalism, and reliable protection throughout British Columbia.."
         image: assets/img/timeline/4.jpg
         alt: "Trusted security"
     end: "Protecting BC<br>Every Day"
 
   about:
     title: "About Us"
-    text: "British Columbia security experts"
-    body: "Forma Protection Services is a Vancouver-based security company serving the entire province of British Columbia. We deliver private security guard services, CCTV and alarm monitoring, drone support, NFC tagging, and access control solutions for commercial, residential, and special event clients. Our teams are trained to protect people, property, and operations with responsive, practical security programs."
+    text: "Protecting British Columbia with Professional Security Solutions"
+    body: "Forma Protection Services is a Vancouver-based security company serving the entire West Coast & Southwest British Columbia. We deliver private security guard services, CCTV and alarm monitoring, drone support, NFC tagging, and access control solutions for commercial, residential, and special event clients. Our teams are trained to protect people, property, and operations with responsive, practical security programs."
     section: about
 
   clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "yes"
-    list:
-      - title: "Commercial Security"
-        url: "#services"
-        logo: assets/img/clients/envato.jpg
-      - title: "Residential Safety"
-        url: "#services"
-        logo: assets/img/clients/designmodo.jpg
-      - title: "Industrial Sites"
-        url: "#services"
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Event Protection"
-        url: "#services"
-        logo: assets/img/clients/creative-market.jpg
+    list: []
 
   team:
     title: "Our Leadership"
@@ -112,7 +96,7 @@ en: &DEFAULT_EN
     subtext: "Licensed, insured, and trained to support your security goals across Vancouver and British Columbia."
     section: team
     people:
-      - name: "Shaan Arora"
+      - name: "Shaan"
         role: "Founder & CEO"
         image: assets/img/team/shaan.jpg
         social:
@@ -203,22 +187,18 @@ es: &DEFAULT_ES
     #start_align: "left"
     events:
       - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Una Agencia nace"
-        year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "La plantilla Jekyll es creada"
-        year: "2019"
         desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Título"
-        year: "2009-2011"
         desc: "Su descripción aquí, **Markdown** es soportado completamente."
         image: assets/img/timeline/4.jpg
         alt:
