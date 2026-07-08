@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Security Services"
-    text: "Comprehensive protection solutions across all of British Columbia."
+    text: "Comprehensive protection solutions across all of West Coast & Southwest BC"
     section: services
     list:
       - title: "Uniformed Security Guards"
@@ -50,7 +50,7 @@ en: &DEFAULT_EN
         icon: fas fa-tags
 
   portfolio:
-    title: "Taylored Security Programs"
+    title: "Tailored Security Programs"
     text: "Comprehensive security programs and services tailored for communities and businesses across British Columbia."
     section: portfolio
     closebutton: "Close Program"
