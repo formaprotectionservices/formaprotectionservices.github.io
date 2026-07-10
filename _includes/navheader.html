@@ -199,6 +199,39 @@
       aboutColumn.appendChild(copyBlock);
       aboutColumn.appendChild(logosBlock);
     });
+
+    document.addEventListener('DOMContentLoaded', function () {
+      const headings = document.querySelectorAll('header.masthead .intro-text .intro-heading');
+      if (!headings.length) return;
+
+      const prepareHeading = function (heading) {
+        if (heading.dataset.heroTitleReady) return;
+
+        const text = heading.textContent.trim();
+        if (!text) return;
+
+        heading.dataset.heroTitleReady = 'true';
+        heading.dataset.heroTitleText = text;
+        heading.innerHTML = '<p>' + text.split(/\s+/).map(function (word) {
+          return '<span class="hero-title-word">' + word + '</span>';
+        }).join(' ') + '</p>';
+      };
+
+      const fitHeadings = function () {
+        headings.forEach(function (heading) {
+          prepareHeading(heading);
+          heading.classList.remove('is-stacked');
+
+          window.requestAnimationFrame(function () {
+            const availableWidth = heading.parentElement ? heading.parentElement.clientWidth : window.innerWidth;
+            heading.classList.toggle('is-stacked', heading.scrollWidth > availableWidth);
+          });
+        });
+      };
+
+      fitHeadings();
+      window.addEventListener('resize', fitHeadings);
+    });
   </script>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
@@ -287,21 +320,26 @@
       header.masthead .btn {
         margin: 0;
       }
-      header.masthead .intro-heading {
-        font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+      header.masthead .intro-text .intro-heading {
+        /* font-size: clamp(2.2rem, 4.5vw, 3.2rem); */
+        font-size: clamp(2.6rem, 5.2vw, 4rem);
         line-height: 1.05;
         white-space: nowrap;
-        max-width: none;
+        max-width: 100%;
         color: #c8a24a;
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5), -1px -1px 2px rgba(0, 0, 0, 0.4);
       }
-      @media (max-width: 576px) {
-        header.masthead .intro-heading {
-          font-size: clamp(1.7rem, 8vw, 2.2rem);
-          line-height: 1.08;
-          white-space: normal;
-          max-width: 100%;
-        }
+      header.masthead .intro-text .intro-heading p {
+        margin: 0;
+      }
+      header.masthead .intro-text .intro-heading.is-stacked {
+        /* font-size: clamp(1.7rem, 8vw, 2.2rem); */
+        font-size: clamp(2em, 9vw, 4rem);
+        line-height: 1.08;
+        white-space: normal;
+      }
+      header.masthead .intro-text .intro-heading.is-stacked .hero-title-word {
+        display: block;
       }
     </style>
     {%- if site.data.style.header-video -%}
@@ -367,12 +405,24 @@
       header.masthead .btn {
         margin: 0;
       }
-      header.masthead .intro-heading {
+      header.masthead .intro-text .intro-heading {
         font-size: clamp(2.2rem, 4.5vw, 3.2rem);
         line-height: 1.05;
         white-space: nowrap;
+        max-width: 100%;
         color: #c8a24a;
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5), -1px -1px 2px rgba(0, 0, 0, 0.4);
+      }
+      header.masthead .intro-text .intro-heading p {
+        margin: 0;
+      }
+      header.masthead .intro-text .intro-heading.is-stacked {
+        font-size: clamp(1.7rem, 8vw, 2.2rem);
+        line-height: 1.08;
+        white-space: normal;
+      }
+      header.masthead .intro-text .intro-heading.is-stacked .hero-title-word {
+        display: block;
       }
     </style>
     {%- if site.data.style.header-video -%}
