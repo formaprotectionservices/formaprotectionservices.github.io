@@ -6,10 +6,10 @@ alt: fire watch
 
 caption:
   title: Forma FireWatch
-  subtitle: Trained fire-watch officers and patrols to meet compliance requirements across BC
+  subtitle: Trained fire-watch officers and patrols to meet compliance requirements across West Coast & Southwest British Columbia
   thumbnail: assets/img/portfolio/firewatch-thumb.jpg
 ---
-Forma FireWatch™ provides trained fire-watch officers across British Columbia to meet regulatory compliance, perform regular patrols, monitor hot works, and deliver timely incident reporting to site safety teams and authorities.
+Forma FireWatch™ provides trained fire-watch officers across West Coast & Southwest British Columbia to meet regulatory compliance, perform regular patrols, monitor hot works, and deliver timely incident reporting to site safety teams and authorities.
 
-- Region: British Columbia
+- Region: West Coast & Southwest British Columbia
 - Services: Fire-watch patrols, hot-works monitoring, compliance reporting, emergency response

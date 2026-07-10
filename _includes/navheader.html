@@ -7,6 +7,16 @@
     #mainNav.navbar-shrink {
       background-color: #212529 !important;
     }
+    @media (max-width: 991.98px) {
+      #mainNav,
+      #mainNav .navbar-collapse {
+        background-color: #212529 !important;
+      }
+      #mainNav .navbar-collapse {
+        margin-top: 0.5rem;
+        padding: 0.25rem 1rem 0.75rem;
+      }
+    }
     #mainNav .navbar-brand,
     #mainNav .navbar-nav .nav-item .nav-link {
       color: #ffffff !important;
@@ -67,6 +77,89 @@
     }
     section#about .about-logos .forma-labs-logo {
       max-width: 220px;
+    }
+    #portfolio .portfolio-item .portfolio-link {
+      overflow: hidden;
+    }
+    #portfolio .portfolio-item .portfolio-link img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      display: block;
+    }
+    #portfolio .portfolio-item .portfolio-caption {
+      min-height: 150px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding-top: 16px;
+    }
+    #portfolio .portfolio-item .portfolio-caption h4 {
+      line-height: 1.25;
+      margin-bottom: 8px;
+    }
+    #portfolio .portfolio-item .portfolio-caption p {
+      line-height: 1.35;
+      display: block;
+      min-height: 0;
+      overflow: visible;
+    }
+    @media (max-width: 575.98px) {
+      #portfolio .portfolio-item,
+      #portfolio .portfolio-item .portfolio-link,
+      #portfolio .portfolio-item .portfolio-caption {
+        max-width: 100%;
+      }
+      #portfolio .portfolio-item .portfolio-caption {
+        padding-right: 16px;
+        padding-left: 16px;
+        overflow-wrap: anywhere;
+      }
+      .portfolio-modal .modal-dialog {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+      }
+      .portfolio-modal .modal-content {
+        min-height: 100vh;
+        padding: 72px 16px 48px;
+        overflow-x: hidden;
+      }
+      .portfolio-modal .modal-content .container,
+      .portfolio-modal .modal-content .row,
+      .portfolio-modal .modal-content [class*="col-"] {
+        max-width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: 0;
+        margin-left: 0;
+      }
+      .portfolio-modal .modal-content h2 {
+        font-size: 2rem;
+        line-height: 1.15;
+        overflow-wrap: anywhere;
+      }
+      .portfolio-modal .modal-content p,
+      .portfolio-modal .modal-content li {
+        overflow-wrap: anywhere;
+      }
+      .portfolio-modal .modal-content img {
+        max-width: 100%;
+        height: auto;
+      }
+      .portfolio-modal .close-modal {
+        top: 12px;
+        right: 12px;
+        width: 48px;
+        height: 48px;
+      }
+      .portfolio-modal .close-modal .lr {
+        height: 48px;
+        margin-left: 23px;
+      }
+      .portfolio-modal .close-modal .lr .rl {
+        height: 48px;
+      }
     }
     @media (max-width: 767.8px) {
       section#about .about-layout {

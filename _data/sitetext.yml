@@ -51,7 +51,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Tailored Security Programs"
-    text: "Comprehensive security programs and services tailored for communities and businesses across British Columbia."
+    text: "Comprehensive security programs and services tailored for communities and businesses across West Coast & Southwest British Columbia."
     section: portfolio
     closebutton: "Close Program"
 
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: 'Call <a href="tel:+16722004424">+1 672-200-4424</a> or email <a href="mailto:info@formaprotectionservices.ca">info@formaprotectionservices.ca</a> to request a consultation.'
+    text: 'Call <a href="tel:+16722004424">+1 672-200-4424</a> or email <a href="mailto:info@formaprotectionservices.ca">info@formaprotectionservices.ca</a> to request a consultation.<br>329 Howe St. Unit #564'
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
